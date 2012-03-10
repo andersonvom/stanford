@@ -4,3 +4,6 @@
 [submodule "ai-class"]
 	path = ai-class
 	url = git@github.com:andersonvom/ai-class.git
+[submodule "saas-class"]
+	path = saas-class
+	url = git@github.com:andersonvom/saas-class.git
