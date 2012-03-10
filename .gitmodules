@@ -1,3 +1,6 @@
 [submodule "ml-class"]
 	path = ml-class
 	url = git@github.com:andersonvom/ml-class.git
+[submodule "ai-class"]
+	path = ai-class
+	url = git@github.com:andersonvom/ai-class.git
